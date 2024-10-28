@@ -7,6 +7,8 @@ import sys, os, argparse
 
 
 def LP_get_P(C,B,c,t):
+
+    # XCL: need to update the variable names to make it consistent with the manuscript.
     #n,m = S.shape
     
     #C is the cell type matrix C_i is for cel type i 
