@@ -1,0 +1,13 @@
+name: qombucha
+channels:
+  - gurobi
+  - bioconda
+  - conda-forge
+dependencies:
+  - gurobi
+  - ipykernel
+  - ipympl
+  - numpy
+  - python=3.12
+  - scikit-learn
+  - seaborn
